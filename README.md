@@ -65,6 +65,6 @@ private void butan1_click(object sender, EventsArgs e)
    
    
    }
-   textBox2.Text= sayİ.ToString();
+   textBox2.Text= sayi.ToString();
 
 }
